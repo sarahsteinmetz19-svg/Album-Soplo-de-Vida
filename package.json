@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <meta name="theme-color" content="#7B5EA7" />
+    <meta name="description" content="Álbum de figuritas virtual del refugio Soplo de Vida 🐾" />
+    <meta property="og:title" content="Álbum Soplo de Vida" />
+    <meta property="og:description" content="Coleccioná a los soplitos y ayudá al refugio" />
+    <title>Álbum Soplo de Vida 🐾</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  </head>
+  <body>
+    <noscript>Necesitás JavaScript habilitado para usar esta app.</noscript>
+    <div id="root"></div>
+  </body>
+</html>
